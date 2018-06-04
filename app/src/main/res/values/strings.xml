@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Paint Calculator App</string>
+    <string name="txtHeight">Height in Feet</string> //text field
+    <string name="txtDistance">Distance Around Room</string> //text field
+    <string name="btnCost">Generate # Gallons</string> //button
+    <string name="txtSupplies">Color / #Gallons</string> //text view
+    <string name="description">Paint</string> //Describes picture
+    <string name="txtEquipment">Color / #Gallons</string>
+    <string name="txtHint">Enter Height and Distance to get Result</string>
+
+    <string-array name="txtPaint">
+        <item>White</item>
+        <item>Pink</item>
+        <item>Grey</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+
+</resources>
